@@ -7,6 +7,6 @@ Smart Pass Gen
 > A package for creating smart password generators you can find here: 
 > [Smart Pass Gen](https://github.com/smartlegion/smartpassgen)
 
-> Cli Password Generators: [Smart Pass Gen](https://github.com/smartlegion/clipassgen)
+> Cli Password Generators: [Cli Pass Gen](https://github.com/smartlegion/clipassgen)
 
 ---
